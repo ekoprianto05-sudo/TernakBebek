@@ -1,0 +1,6 @@
+{
+  "name": "DuckFarm Pro - Android Duck Management",
+  "description": "Comprehensive offline Duck Farming Management Android application with coop tracking, egg production, feed inventory, financial profit calculations, health schedules, reports, and SQLite backup/restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

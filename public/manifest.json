@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "DuckFarm Pro - Duck Farm Management",
+  "short_name": "DuckFarm",
+  "description": "Comprehensive offline Duck Farming Management Android application with coop tracking, egg production, feed inventory, financial profit calculations, health schedules, reports, and SQLite backup/restore.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#15803d",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
